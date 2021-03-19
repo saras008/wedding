@@ -728,7 +728,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 10px;
   right: 10px;
   content: '';
-  background: #add8e6;
+  background: #b0ecf7;
   z-index: -1;
 }
 .couple.bride {
@@ -742,7 +742,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 10px;
   right: 10px;
   content: '';
-  background: #ffc6e1;
+  background: #fae3ee;
   z-index: -1;
 }
 .couple img {
@@ -854,11 +854,11 @@ h1, h2, h3, h4, h5, h6 {
   left: 10px;
   right: 10px;
   content: '';
-  background: #f4f3e2;
+  background: #b0ecf7;
   z-index: -1;
 }
 .timeline > li > .timeline-panel .overlay.overlay-2 {
-  background: #fef6f8;
+  background: #fae3ee;
 }
 .timeline > li > .timeline-badge {
   background-size: cover;
@@ -1713,4 +1713,7 @@ font-size:medium;
   border-radius: 100% 60% / 30% 10%;
   background: linear-gradient(rgba(56,123,131,0.7),rgba(56,123,131,0.7));
 }
-/*# sourceMappingURL=style.css.map */
+
+/*# Gallery CSS */
+
+
