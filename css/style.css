@@ -231,8 +231,8 @@ h1, h2, h3, h4, h5, h6 {
 .section-heading {
   float: left;
   width: 100%;
-  padding-bottom: 50px;
-  margin-bottom: 50px;
+  padding-bottom: 25px;
+  margin-bottom: 25px;
   clear: both;
 }
 .section-heading.svg-sm-2 .svg {
@@ -288,7 +288,7 @@ h1, h2, h3, h4, h5, h6 {
 #qbootstrap-gallery,
 #qbootstrap-testimonials,
 #qbootstrap-press {
-  padding: 7em 0;
+  padding: 2em 0;
 }
 @media screen and (max-width: 480px) {
   #qbootstrap-couple,
@@ -1133,12 +1133,18 @@ h1, h2, h3, h4, h5, h6 {
 .wedding-events {
   background: #fff;
 }
+
+.wedding-events .img {
+  padding-left: 300px;
+  position: relative;
+}
+
 @media screen and (max-width: 768px) {
   .wedding-events {
     margin-bottom: 2em;
   }
 }
-.wedding-events .ceremony-bg {
+.wedding-events {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
